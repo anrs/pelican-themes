@@ -31,7 +31,7 @@ h6 a { color: inherit !important }
 }
 
 pre {
-    margin: 2em 1em 2em 4em;
+    margin: 2em 1em 2em 0.5em;
     white-space: pre-wrap;
 }
 
